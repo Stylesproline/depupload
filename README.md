@@ -1,0 +1,1 @@
+How to make a simple image upload using Javascript/HTML
